@@ -56,7 +56,7 @@ Top Rated on Upwork · 200+ clients · 1M+ emails delivered via automation syste
 |------|--------|----|
 | [basic-rag-with-fastapi](https://github.com/muhammad-a-dev/basic-rag-with-fastapi) | Streaming RAG API (FastAPI + LangChain + Chroma) | [![CI](https://github.com/muhammad-a-dev/basic-rag-with-fastapi/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammad-a-dev/basic-rag-with-fastapi/actions/workflows/ci.yml) |
 | [async-scrapekit](https://github.com/muhammad-a-dev/async-scrapekit) | Async scraping toolkit — robots.txt, rate limits, export | [![CI](https://github.com/muhammad-a-dev/async-scrapekit/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammad-a-dev/async-scrapekit/actions/workflows/ci.yml) |
-| [agency-ops-agent](https://github.com/muhammad-a-dev/agency-ops-agent) | Tool-using FastAPI agent for agency ops automation | building |
+| [agency-ops-agent](https://github.com/muhammad-a-dev/agency-ops-agent) | Tool-using FastAPI agent for agency ops automation | [![CI](https://github.com/muhammad-a-dev/agency-ops-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/muhammad-a-dev/agency-ops-agent/actions/workflows/ci.yml) |
 
 *Quality over quantity — each public repo is meant to survive technical scrutiny.*
 
