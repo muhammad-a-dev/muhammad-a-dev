@@ -16,27 +16,31 @@ Top Rated on Upwork · 200+ clients · 1M+ emails delivered via automation syste
 ### Tech stack
 
 <p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,docker,github,githubactions,selenium,nodejs,typescript&perline=8" alt="Tech stack" /></a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white" alt="asyncio" />
+  <img src="https://img.shields.io/badge/asyncio-async-3776AB?style=flat-square&logo=python&logoColor=white" alt="asyncio" />
   <img src="https://img.shields.io/badge/httpx-000000?style=flat-square" alt="httpx" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ### GitHub snapshot
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammad-a-dev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-a-dev&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=muhammad-a-dev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammad-a-dev&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-a-dev&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhammad-a-dev&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 </p>
 
 ### What I build
