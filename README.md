@@ -21,15 +21,16 @@ Top Rated on Upwork · 200+ clients · 1M+ emails delivered via automation syste
 
 | Repo | Focus |
 |------|--------|
-| [basic-rag-with-fastapi](https://github.com/muhammad-a-dev/basic-rag-with-fastapi) | Streaming RAG API (FastAPI + LangChain + Chroma) |
+| [basic-rag-with-fastapi](https://github.com/muhammad-a-dev/basic-rag-with-fastapi) | Streaming RAG API (FastAPI + LangChain + Chroma) with tests & CI |
+| [async-scrapekit](https://github.com/muhammad-a-dev/async-scrapekit) | Async scraping toolkit — robots.txt, rate limits, structured export |
 
-*More production-quality open-source projects landing here soon — quality over quantity.*
+*Quality over quantity — each public repo is meant to survive technical scrutiny.*
 
-### Currently strengthening
+### Currently shipping
 
-- Public portfolio of **production-style** Python + AI automation repos
+- Hardening public Python + AI automation showcases
 - Legitimate open-source contributions
-- Clear docs, tests, and CI on every showcase project
+- Docs, tests, and CI on every portfolio project
 
 ### Connect
 
